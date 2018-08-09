@@ -2,8 +2,8 @@
 SAS Macro for Generalized Method of Moments Estimation for Longitudinal Data with Time-Dependent Covariates
 
 # SAS Global Forum Conference Proceeding Papers:
-Cai 2015 How to Use SAS for GMM Logistic Regression Models for Longitudinal Data with Time-Dependent Covariates
-</n>Cai 2016 SAS Macro for Generalized Method of Moments Estimation for Longitudinal Data with Time-Dependent Covariates
+Cai 2015 How to Use SAS for GMM Logistic Regression Models for Longitudinal Data with Time-Dependent Covariates,
+Cai 2016 SAS Macro for Generalized Method of Moments Estimation for Longitudinal Data with Time-Dependent Covariates
 
 # SAS Files:
 %GMM Macro.sas:
